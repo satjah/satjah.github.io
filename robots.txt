@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://satjah.github.io/sitemap.xml

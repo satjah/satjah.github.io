@@ -1,0 +1,69 @@
+
+@font-face{font-family:"Noto Sans Thai";src:url(fonts/NotoSansThai-VF.ttf) format("truetype");font-weight:100 900;font-display:swap}
+:root{--ink:#161616;--paper:#fbfaf7;--rule:#d9d6cf;--mute:#6f6c66;--w:880px;
+ --body:"Noto Sans Thai","Thonburi",system-ui,sans-serif;--num:"Iowan Old Style","Palatino Linotype",Georgia,serif}
+*{box-sizing:border-box}html{-webkit-text-size-adjust:100%}
+body{margin:0;color:var(--ink);background:radial-gradient(ellipse at 20% 0%,rgba(255,255,255,.5),transparent 55%),var(--paper);font-family:var(--body);line-height:1.6;font-size:18px}
+img{max-width:100%;height:auto;display:block}
+a{color:inherit;text-decoration-color:var(--rule);text-underline-offset:3px}a:hover{text-decoration-color:var(--ink)}
+.wrap{max-width:var(--w);margin:0 auto;padding:0 clamp(16px,4vw,48px)}
+.nav{display:flex;justify-content:space-between;gap:16px;padding-top:20px;padding-bottom:20px;font-size:.85em;color:var(--mute);flex-wrap:wrap}
+.brand{text-decoration:none;color:var(--ink)}
+header.hero{padding:56px 0 32px}
+.hero .port{width:112px;height:140px;margin:0 0 28px;border:1px solid var(--rule);overflow:hidden}
+.hero .port img{width:100%;height:100%;object-fit:cover;object-position:60% 30%}
+.hero h1{font-size:clamp(2rem,5vw,3rem);margin:0 0 .2em;font-weight:600;line-height:1.1}
+.hero .alt{font-family:var(--num);color:var(--mute);margin:0 0 1.4em;font-style:italic}
+.hero p.one{font-size:1.25rem;line-height:1.55;margin:0;max-width:34em}
+.letter p{margin:0 0 1.2em;font-weight:300;font-size:1.06em;line-height:1.75;max-width:38em}
+.letter p.short{font-weight:500;font-size:1.3em;margin:1.6em 0;padding-left:1em;border-left:2px solid var(--ink)}
+h2{font-family:var(--num);font-style:italic;font-weight:400;font-size:1.5rem;margin:56px 0 8px}
+.sub{color:var(--mute);margin:0 0 20px;font-size:.92em}
+.roles{font-size:.95em;margin:0 0 8px}.roles div{display:flex;gap:14px;padding:6px 0;border-top:1px solid var(--rule)}
+.roles div span:first-child{font-family:var(--num);color:var(--mute);min-width:6em;font-variant-numeric:tabular-nums}
+.reg{border-top:1px solid var(--ink);margin-top:8px}
+.yr{display:grid;grid-template-columns:10em 1fr;gap:18px;border-bottom:1px solid var(--rule);padding:20px 0}
+.yr .l{font-family:var(--num);font-variant-numeric:tabular-nums}
+.yr .l .y{font-size:1.5rem;line-height:1;display:block;text-decoration:none}
+.yr .l .y small{font-size:.55em;color:var(--mute);margin-left:.5em;font-style:italic}
+.yr .l .h{display:block;font-family:var(--body);font-size:.85em;color:var(--mute);font-style:italic;margin-top:12px;line-height:1.5;padding-right:12px}
+.yr .l .h b{display:block;font-family:var(--num);font-style:normal;color:var(--ink);font-weight:500}
+.yr .l .h a{text-decoration:none}.yr .l .h a:hover{text-decoration:underline}
+.it{display:grid;grid-template-columns:7.5em 1fr;gap:14px;padding:8px 0;border-top:1px dotted var(--rule)}
+.it:first-child{border-top:0}
+.it .d{font-family:var(--num);color:var(--mute);font-variant-numeric:tabular-nums;font-size:.9em;padding-top:2px}
+.it .d a{text-decoration:none}.it .d a:hover{text-decoration:underline}
+.it .t{margin:0;font-size:1.02em}.it .t a{text-decoration:none}.it .t a:hover{text-decoration:underline}
+.it .t.log{font-weight:300;color:var(--mute)}
+.it .s{margin:4px 0 0;font-size:.9em;color:var(--mute);font-weight:300}
+.it .more{margin:6px 0 0;font-size:.88em;color:var(--mute)}
+.tag{display:inline-block;font-size:.72em;letter-spacing:.04em;border:1px solid var(--rule);padding:0 6px;border-radius:2px;color:var(--mute);margin-left:6px;vertical-align:middle}
+.src{font-size:.82em;color:var(--mute);display:block;margin-top:2px}
+.ph{margin:12px 0 4px;max-width:360px;background:rgba(22,20,16,.035)}.ph.big{max-width:100%;margin:18px 0 10px}
+.more-ph{margin:2px 0 0;font-size:.82em;color:var(--mute)}
+/* ---- "หมึกซึมบนกระดาษ": a photo arrives muted and slightly out of focus, then settles into colour as you reach it.
+   Colour lives in the files already, so this costs no bytes. Everything is guarded behind html.js so a viewer
+   without JavaScript simply sees the finished photo, and behind prefers-reduced-motion for anyone who asks for stillness. */
+.ph.big img{-webkit-mask-image:radial-gradient(118% 118% at 50% 50%,#000 58%,rgba(0,0,0,.9) 82%,transparent 100%);
+ mask-image:radial-gradient(118% 118% at 50% 50%,#000 58%,rgba(0,0,0,.9) 82%,transparent 100%)}
+figure.ph.big{filter:drop-shadow(0 16px 28px rgba(22,20,16,.14))}
+html.js .bloom img{filter:grayscale(1) contrast(1.02) blur(.8px);opacity:.58;transform:translateY(8px) scale(1.008);
+ transition:filter .95s ease-out,opacity .8s ease-out,transform .95s ease-out;
+ transition-delay:calc(var(--i,0)*110ms);will-change:filter,transform,opacity}
+html.js .bloom.in img{filter:grayscale(0) contrast(1) blur(0);opacity:1;transform:none;will-change:auto}
+@media (prefers-reduced-motion:reduce){html.js .bloom img{filter:none;opacity:1;transform:none;transition:none}}
+article.entry h1{font-size:clamp(1.5rem,3.5vw,2.1rem);line-height:1.25;margin:8px 0 6px;font-weight:600}
+article.entry .meta{font-family:var(--num);color:var(--mute);font-variant-numeric:tabular-nums;margin:0 0 24px}
+article.entry .body p{font-weight:300;line-height:1.75;margin:0 0 1em;max-width:38em}
+article.entry blockquote{margin:0 0 1em;padding-left:1em;border-left:2px solid var(--rule);font-style:italic}
+article.entry .note{font-size:.85em;color:var(--mute);font-style:italic}
+.pn{display:flex;justify-content:space-between;gap:16px;margin:48px 0 0;padding-top:16px;border-top:1px solid var(--rule);font-size:.92em}
+.pn a{text-decoration:none;max-width:45%}.pn a:hover{text-decoration:underline}.pn small{display:block;color:var(--mute);font-family:var(--num)}
+.years{display:flex;flex-wrap:wrap;gap:4px 14px;font-family:var(--num);font-variant-numeric:tabular-nums;font-size:.95em;margin:8px 0 24px}
+.years a{text-decoration:none;color:var(--mute)}.years a:hover,.years a[aria-current]{color:var(--ink);text-decoration:underline}
+.sign{font-family:var(--num);font-style:italic;font-size:1.3rem;margin:48px 0 0}
+footer{color:var(--mute);font-size:.85em;padding:48px 0 64px;border-top:1px solid var(--rule);margin-top:64px}
+footer a{margin-right:14px}
+@media (max-width:640px){.yr{grid-template-columns:1fr;gap:6px}.yr .l .h{margin-top:6px}.it{grid-template-columns:1fr;gap:2px}.pn{flex-direction:column}.pn a{max-width:100%}}
+@media (prefers-reduced-motion:no-preference){a{transition:text-decoration-color .15s}}
+@media print{.nav,.pn,footer{display:none}}
