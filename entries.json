@@ -1,7 +1,7 @@
 {
  "person": "Satja Hongyok",
  "generated": "2026-09-12",
- "count": 164,
+ "count": 159,
  "entries": [
   {
    "id": "manual-house-built",
@@ -100,20 +100,6 @@
    "url_en": "https://satjah.github.io/en/e/manual-ait-start/",
    "source_url": null,
    "source_kind": "manual"
-  },
-  {
-   "id": "web-aitir-2005-01-01",
-   "person": "satja",
-   "date": "2005-01-01",
-   "date_precision": "year",
-   "type": "education",
-   "tier": "milestone",
-   "title_th": "Access control with versioning and timing in digital repositories",
-   "title_en": null,
-   "url_th": "https://satjah.github.io/th/e/web-aitir-2005-01-01/",
-   "url_en": "https://satjah.github.io/en/e/web-aitir-2005-01-01/",
-   "source_url": "https://aitir.ait.ac.th/ait-thesis/detail.php?q=B09506",
-   "source_kind": "web"
   },
   {
    "id": "manual-ait-grad",
@@ -732,20 +718,6 @@
    "source_kind": "facebook"
   },
   {
-   "id": "web-michelin-2021-12-09",
-   "person": "satja",
-   "date": "2021-12-09",
-   "date_precision": "day",
-   "type": "award",
-   "tier": "milestone",
-   "title_th": "ร้านที่ดูแลได้ Bib Gourmand ครั้งแรก — MICHELIN Guide Thailand 2022",
-   "title_en": "The restaurant I run receives its first Bib Gourmand — MICHELIN Guide Thailand 2022",
-   "url_th": "https://satjah.github.io/th/e/web-michelin-2021-12-09/",
-   "url_en": "https://satjah.github.io/en/e/web-michelin-2021-12-09/",
-   "source_url": "https://guide.michelin.com/th/en/article/news-and-views/the-michelin-guide-thailand-unveils-its-list-of-133-bib-gourmand-restaurants-in-2022",
-   "source_kind": "web"
-  },
-  {
    "id": "fb-1642121959-9afe4f68",
    "person": "satja",
    "date": "2022-01-14",
@@ -898,20 +870,6 @@
    "url_en": "https://satjah.github.io/en/e/fb-1672645200-9dbc5d7d/",
    "source_url": null,
    "source_kind": "facebook"
-  },
-  {
-   "id": "web-nationtv-2023-02-06",
-   "person": "satja",
-   "date": "2023-02-06",
-   "date_precision": "day",
-   "type": "venture",
-   "tier": "milestone",
-   "title_th": "บ.บ้านอาจ้อ จำกัด — กรรมการ (ข้อมูล DBD ที่สื่ออ้าง)",
-   "title_en": null,
-   "url_th": "https://satjah.github.io/th/e/web-nationtv-2023-02-06/",
-   "url_en": "https://satjah.github.io/en/e/web-nationtv-2023-02-06/",
-   "source_url": "https://www.nationtv.tv/news/entertainment/378903769",
-   "source_kind": "web"
   },
   {
    "id": "fb-1677517799-6d598671",
@@ -2104,20 +2062,6 @@
    "source_kind": "manual"
   },
   {
-   "id": "web-michelin-2026-01-01",
-   "person": "satja",
-   "date": "2026-01-01",
-   "date_precision": "year",
-   "type": "award",
-   "tier": "milestone",
-   "title_th": "Bib Gourmand ปีที่ 5 ติดต่อกัน — MICHELIN Guide Thailand 2026",
-   "title_en": "Fifth consecutive Bib Gourmand — MICHELIN Guide Thailand 2026",
-   "url_th": "https://satjah.github.io/th/e/web-michelin-2026-01-01/",
-   "url_en": "https://satjah.github.io/en/e/web-michelin-2026-01-01/",
-   "source_url": "https://guide.michelin.com/en/phuket-region/phuket/restaurant/toh-daeng-by-baan-ar-jor-museum-home",
-   "source_kind": "web"
-  },
-  {
    "id": "web-thelosttaste-2026-01-01",
    "person": "satja",
    "date": "2026-01-01",
@@ -2202,18 +2146,18 @@
    "source_kind": "facebook"
   },
   {
-   "id": "web-readthecloud-2026-05-09",
+   "id": "manual-building-systems-2026",
    "person": "satja",
-   "date": "2026-05-09",
-   "date_precision": "day",
-   "type": "heritage",
+   "date": "2026-03-26",
+   "date_precision": "month",
+   "type": "venture",
    "tier": "milestone",
-   "title_th": "บ้านอาจ้อ บ้านเก่า 86 ปีที่ยังมีชีวิต",
-   "title_en": null,
-   "url_th": "https://satjah.github.io/th/e/web-readthecloud-2026-05-09/",
-   "url_en": "https://satjah.github.io/en/e/web-readthecloud-2026-05-09/",
-   "source_url": "https://readthecloud.co/baan-ar-jor/",
-   "source_kind": "web"
+   "title_th": "ครึ่งปีที่หายไปจากหน้าฟีด — นั่งสร้างระบบหลังบ้านให้ทุกกิจการด้วย AI",
+   "title_en": "The half-year that vanished from the feed — building back-office systems for every venture with AI",
+   "url_th": "https://satjah.github.io/th/e/manual-building-systems-2026/",
+   "url_en": "https://satjah.github.io/en/e/manual-building-systems-2026/",
+   "source_url": null,
+   "source_kind": "manual"
   },
   {
    "id": "fb-1781014764-cd2512d3",
@@ -2284,20 +2228,6 @@
    "url_en": "https://satjah.github.io/en/e/fb-1788272359-6762a41c/",
    "source_url": null,
    "source_kind": "facebook"
-  },
-  {
-   "id": "web-rotary3330-2026-09-03",
-   "person": "satja",
-   "date": "2026-09-03",
-   "date_precision": "day",
-   "type": "position",
-   "tier": "milestone",
-   "title_th": "ทำเนียบสมาชิกสโมสรโรตารีเหมืองแร่ภูเก็ต",
-   "title_en": null,
-   "url_th": "https://satjah.github.io/th/e/web-rotary3330-2026-09-03/",
-   "url_en": "https://satjah.github.io/en/e/web-rotary3330-2026-09-03/",
-   "source_url": "https://m.rotary3330.org/viewclub/148",
-   "source_kind": "web"
   }
  ]
 }
