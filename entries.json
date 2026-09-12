@@ -1,7 +1,7 @@
 {
  "person": "Satja Hongyok",
  "generated": "2026-09-12",
- "count": 159,
+ "count": 158,
  "entries": [
   {
    "id": "manual-house-built",
@@ -1144,8 +1144,8 @@
    "date_precision": "unknown",
    "type": "video",
    "tier": "milestone",
-   "title_th": "Baan Ar-Jor YouTube — \"The Story of Baan Ar-Jor ถามตอบเกี่ยวกับบ้านอา…",
-   "title_en": null,
+   "title_th": "The Story of Baan Ar-Jor — คลิปถาม-ตอบเรื่องบ้านอาจ้อ (โก๊โอ๊ค · โก๊อ๊อด)",
+   "title_en": "The Story of Baan Ar-Jor — a Q&A video about the house with the two brothers",
    "url_th": "https://satjah.github.io/th/e/web-baanarjor-2024-01-01/",
    "url_en": "https://satjah.github.io/en/e/web-baanarjor-2024-01-01/",
    "source_url": "https://www.youtube.com/watch?v=eUiLzDOj9QE",
@@ -1402,20 +1402,6 @@
    "url_en": "https://satjah.github.io/en/e/fb-1716615249-bd72fe59/",
    "source_url": null,
    "source_kind": "facebook"
-  },
-  {
-   "id": "web-smedbank-2024-05-27",
-   "person": "satja",
-   "date": "2024-05-27",
-   "date_precision": "day",
-   "type": "talk",
-   "tier": "milestone",
-   "title_th": "SME D Bank \"Sustainable Business\" — ผู้เข้าอบรม: สัจจ หงษ์หยก ร้านโต๊…",
-   "title_en": null,
-   "url_th": "https://satjah.github.io/th/e/web-smedbank-2024-05-27/",
-   "url_en": "https://satjah.github.io/en/e/web-smedbank-2024-05-27/",
-   "source_url": "https://www.facebook.com/DXbySMEDBank/posts/769390838710568/",
-   "source_kind": "web"
   },
   {
    "id": "fb-1716914732-2cd4d436",
@@ -1995,7 +1981,7 @@
    "id": "web-thaipbs-2025-11-08",
    "person": "satja",
    "date": "2025-11-08",
-   "date_precision": "day",
+   "date_precision": "month",
    "type": "talk",
    "tier": "milestone",
    "title_th": "Teach Talk (Thai PBS) — พูดเรื่องอาหารในทุนวัฒนธรรมภูเก็ต",
