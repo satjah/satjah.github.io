@@ -1,7 +1,7 @@
 {
  "person": "Satja Hongyok",
  "generated": "2026-09-12",
- "count": 162,
+ "count": 164,
  "entries": [
   {
    "id": "manual-house-built",
@@ -2226,6 +2226,34 @@
    "title_en": "Farewell and welcome dinner for the Rotary club presidents",
    "url_th": "https://satjah.github.io/th/e/fb-1781014764-cd2512d3/",
    "url_en": "https://satjah.github.io/en/e/fb-1781014764-cd2512d3/",
+   "source_url": null,
+   "source_kind": "facebook"
+  },
+  {
+   "id": "fb-1785472169-17948c08",
+   "person": "satja",
+   "date": "2026-07-31",
+   "date_precision": "day",
+   "type": "heritage",
+   "tier": "log",
+   "title_th": "ผ้ามงคลผืนใหม่ของคุณแม่ ขึ้นแขวนที่บาร์น้ำโต๊ะแดงบ้านอาจ้อ",
+   "title_en": "Mother's new auspicious cloth goes up at the TOH DAENG Baan Ar-Jor bar",
+   "url_th": "https://satjah.github.io/th/e/fb-1785472169-17948c08/",
+   "url_en": "https://satjah.github.io/en/e/fb-1785472169-17948c08/",
+   "source_url": null,
+   "source_kind": "facebook"
+  },
+  {
+   "id": "fb-1785496184-f01143a3",
+   "person": "satja",
+   "date": "2026-07-31",
+   "date_precision": "day",
+   "type": "venture",
+   "tier": "log",
+   "title_th": "ร่วมงาน Phuket Lobster Festival 2026 — โต๊ะแดงเป็น 1 ใน 122 ร้านที่เสิร์ฟเมนูกุ้งมังกรภูเก็ต",
+   "title_en": "Phuket Lobster Festival 2026 — TOH DAENG among the 122 restaurants serving Phuket lobster",
+   "url_th": "https://satjah.github.io/th/e/fb-1785496184-f01143a3/",
+   "url_en": "https://satjah.github.io/en/e/fb-1785496184-f01143a3/",
    "source_url": null,
    "source_kind": "facebook"
   },
