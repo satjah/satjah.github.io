@@ -1,7 +1,7 @@
 {
  "person": "Satja Hongyok",
- "generated": "2026-09-07",
- "count": 161,
+ "generated": "2026-09-12",
+ "count": 162,
  "entries": [
   {
    "id": "manual-house-built",
@@ -2242,6 +2242,20 @@
    "url_en": "https://satjah.github.io/en/e/manual-green-premium-2026/",
    "source_url": null,
    "source_kind": "manual"
+  },
+  {
+   "id": "fb-1788272359-6762a41c",
+   "person": "satja",
+   "date": "2026-09-01",
+   "date_precision": "day",
+   "type": "award",
+   "tier": "milestone",
+   "title_th": "Good Table Award 2026 — โต๊ะแดงภูเก็ต ประเภทร้านอาหารภาคใต้",
+   "title_en": "Good Table Award 2026 — TOH DAENG, restaurant category, Southern Thailand",
+   "url_th": "https://satjah.github.io/th/e/fb-1788272359-6762a41c/",
+   "url_en": "https://satjah.github.io/en/e/fb-1788272359-6762a41c/",
+   "source_url": null,
+   "source_kind": "facebook"
   },
   {
    "id": "web-rotary3330-2026-09-03",

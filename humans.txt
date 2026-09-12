@@ -1,4 +1,4 @@
 /* TEAM */
 Satja Hongyok — A fourth-generation Phuket son who never planned to be anything in particular, was called home in 2013, and became whatever the family needed next.
 /* SITE */
-Built: 2026-09-07 · static HTML from one markdown file per event · no trackers · fonts self-hosted (Noto Sans Thai, OFL)
+Built: 2026-09-12 · static HTML from one markdown file per event · no trackers · fonts self-hosted (Noto Sans Thai, OFL)
