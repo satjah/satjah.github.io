@@ -1,7 +1,7 @@
 {
  "person": "Satja Hongyok",
- "generated": "2026-09-12",
- "count": 158,
+ "generated": "2026-09-13",
+ "count": 160,
  "entries": [
   {
    "id": "manual-house-built",
@@ -182,6 +182,20 @@
    "title_en": "Managing Director, Tianyin Group — hotel laundry plant",
    "url_th": "https://satjah.github.io/th/e/manual-tianyin/",
    "url_en": "https://satjah.github.io/en/e/manual-tianyin/",
+   "source_url": null,
+   "source_kind": "manual"
+  },
+  {
+   "id": "manual-house-found-2016",
+   "person": "satja",
+   "date": "2016-01-01",
+   "date_precision": "year",
+   "type": "heritage",
+   "tier": "milestone",
+   "title_th": "ขับรถหาสิ่งที่จะทำให้อากงมีความสุข — แล้วเจอบ้านเรือนหอของท่านที่ร้างมา 37 ปี",
+   "title_en": "Driving around looking for something to make Grandfather happy — and finding his old house, empty for 37 years",
+   "url_th": "https://satjah.github.io/th/e/manual-house-found-2016/",
+   "url_en": "https://satjah.github.io/en/e/manual-house-found-2016/",
    "source_url": null,
    "source_kind": "manual"
   },
@@ -508,20 +522,6 @@
    "source_kind": "facebook"
   },
   {
-   "id": "manual-pk-modernfood-closed",
-   "person": "satja",
-   "date": "2021-01-01",
-   "date_precision": "year",
-   "type": "venture",
-   "tier": "milestone",
-   "title_th": "ปิดกิจการ พี.เค.โมเดิร์นฟู้ด ทุกแบรนด์ — ไปพร้อม Covid-19",
-   "title_en": "Closed all P.K. Modern Food brands during Covid-19",
-   "url_th": "https://satjah.github.io/th/e/manual-pk-modernfood-closed/",
-   "url_en": "https://satjah.github.io/en/e/manual-pk-modernfood-closed/",
-   "source_url": null,
-   "source_kind": "manual"
-  },
-  {
    "id": "fb-1612410680-5cd9ec69",
    "person": "satja",
    "date": "2021-02-04",
@@ -716,6 +716,20 @@
    "url_en": "https://satjah.github.io/en/e/fb-1639058997-fedcfea8/",
    "source_url": null,
    "source_kind": "facebook"
+  },
+  {
+   "id": "manual-lesson-pk-modernfood",
+   "person": "satja",
+   "date": "2022-01-01",
+   "date_precision": "year",
+   "type": "lesson",
+   "tier": "milestone",
+   "title_th": "ร้านชาที่เคยกำไร กลายเป็นร้านที่ผมยื้อไว้สองปี — พี.เค.โมเดิร์นฟู้ด",
+   "title_en": "The tea shop that made money, and the two years I kept it alive anyway — P.K. Modern Food",
+   "url_th": "https://satjah.github.io/th/e/manual-lesson-pk-modernfood/",
+   "url_en": "https://satjah.github.io/en/e/manual-lesson-pk-modernfood/",
+   "source_url": null,
+   "source_kind": "manual"
   },
   {
    "id": "fb-1642121959-9afe4f68",
@@ -2214,6 +2228,20 @@
    "url_en": "https://satjah.github.io/en/e/fb-1788272359-6762a41c/",
    "source_url": null,
    "source_kind": "facebook"
+  },
+  {
+   "id": "manual-rajabhat-talk-2026",
+   "person": "satja",
+   "date": "2026-09-11",
+   "date_precision": "day",
+   "type": "talk",
+   "tier": "milestone",
+   "title_th": "เวทีเสวนา \"จากของใกล้ตัว สู่ลูกค้าคนแรก\" กับนักศึกษาผู้ประกอบการ ม.ราชภัฏภูเก็ต",
+   "title_en": "Panel \"From what's close to you, to your first customer\" with entrepreneurship students at Phuket Rajabhat University",
+   "url_th": "https://satjah.github.io/th/e/manual-rajabhat-talk-2026/",
+   "url_en": "https://satjah.github.io/en/e/manual-rajabhat-talk-2026/",
+   "source_url": null,
+   "source_kind": "manual"
   }
  ]
 }
