@@ -1,7 +1,8 @@
 
 @font-face{font-family:"Noto Sans Thai";src:url(fonts/NotoSansThai-VF.ttf) format("truetype");font-weight:100 900;font-display:swap}
 :root{--ink:#161616;--paper:#fbfaf7;--rule:#d9d6cf;--mute:#6f6c66;--w:880px;
- --body:"Noto Sans Thai","Thonburi",system-ui,sans-serif;--num:"Iowan Old Style","Palatino Linotype",Georgia,serif}
+ --body:"Noto Sans Thai","Thonburi",system-ui,sans-serif;--num:"Iowan Old Style","Palatino Linotype",Georgia,serif;
+ --mono:"SF Mono",Menlo,Consolas,"Courier New",monospace}
 *{box-sizing:border-box}html{-webkit-text-size-adjust:100%}
 body{margin:0;color:var(--ink);background:radial-gradient(ellipse at 20% 0%,rgba(255,255,255,.5),transparent 55%),var(--paper);font-family:var(--body);line-height:1.6;font-size:18px}
 img{max-width:100%;height:auto;display:block}
@@ -39,6 +40,20 @@ h2{font-family:var(--num);font-style:italic;font-weight:400;font-size:1.5rem;mar
 .it .more{margin:6px 0 0;font-size:.88em;color:var(--mute)}
 .tag{display:inline-block;font-size:.72em;letter-spacing:.04em;border:1px solid var(--rule);padding:0 6px;border-radius:2px;color:var(--mute);margin-left:6px;vertical-align:middle}
 .src{font-size:.82em;color:var(--mute);display:block;margin-top:2px}
+/* ---- systems page (SP-25b · draft C "เส้นเดียว"): year pair + mono status line + quarterly list */
+.pair{display:grid;grid-template-columns:1fr 1px 1fr;gap:0 clamp(18px,4vw,48px);align-items:end;padding:40px 0 24px}
+.pair .bar{background:var(--ink);align-self:stretch}
+.pair .pyr{display:block;line-height:1;font-size:clamp(3.4rem,10vw,6.5rem);margin:0}
+.pair .old .pyr{font-family:var(--num);font-style:italic;font-weight:400}
+.pair .new .pyr{font-family:var(--mono);font-weight:500;letter-spacing:-.04em}
+.pair small{display:block;color:var(--mute);margin-top:10px;font-size:.9rem}
+.pair .old small{font-family:var(--num);font-style:italic}.pair .new small{font-family:var(--mono);font-size:.8rem}
+.it .st{margin:6px 0 0;font-family:var(--mono);font-size:.72em;color:var(--mute);letter-spacing:.02em}
+.it .st b{font-weight:500;color:var(--ink)}
+.q li{margin:0 0 8px}.q .tbd{color:var(--mute);font-style:italic}
+.sys h1{font-size:clamp(1.6rem,3.5vw,2.2rem);font-weight:600;margin:24px 0 .3em;line-height:1.2}
+.sys p.one{font-size:1.2rem;line-height:1.55;max-width:34em;margin:0 0 1em;font-weight:300}
+.sys blockquote{margin:40px 0;padding-left:1em;border-left:2px solid var(--ink);font-weight:300;font-size:1.06em;line-height:1.7;max-width:36em}
 .ph{margin:12px 0 4px;max-width:360px;background:rgba(22,20,16,.035)}.ph.big{max-width:100%;margin:18px 0 10px}
 .more-ph{margin:2px 0 0;font-size:.82em;color:var(--mute)}
 /* ---- "หมึกซึมบนกระดาษ": a photo arrives muted and slightly out of focus, then settles into colour as you reach it.
@@ -64,6 +79,6 @@ article.entry .note{font-size:.85em;color:var(--mute);font-style:italic}
 .sign{font-family:var(--num);font-style:italic;font-size:1.3rem;margin:48px 0 0}
 footer{color:var(--mute);font-size:.85em;padding:48px 0 64px;border-top:1px solid var(--rule);margin-top:64px}
 footer a{margin-right:14px}
-@media (max-width:640px){.yr{grid-template-columns:1fr;gap:6px}.yr .l .h{margin-top:6px}.it{grid-template-columns:1fr;gap:2px}.pn{flex-direction:column}.pn a{max-width:100%}}
+@media (max-width:640px){.yr{grid-template-columns:1fr;gap:6px}.yr .l .h{margin-top:6px}.it{grid-template-columns:1fr;gap:2px}.pn{flex-direction:column}.pn a{max-width:100%}.pair{grid-template-columns:1fr;gap:18px}.pair .bar{height:1px;width:4em}}
 @media (prefers-reduced-motion:no-preference){a{transition:text-decoration-color .15s}}
 @media print{.nav,.pn,footer{display:none}}

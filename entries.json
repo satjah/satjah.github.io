@@ -1,7 +1,7 @@
 {
  "person": "Satja Hongyok",
- "generated": "2026-09-13",
- "count": 160,
+ "generated": "2026-09-15",
+ "count": 167,
  "entries": [
   {
    "id": "manual-house-built",
@@ -210,6 +210,20 @@
    "title_en": "Lay judge, Labour Court Region 8 (fourth cohort)",
    "url_th": "https://satjah.github.io/th/e/manual-labour-court-judge/",
    "url_en": "https://satjah.github.io/en/e/manual-labour-court-judge/",
+   "source_url": null,
+   "source_kind": "manual"
+  },
+  {
+   "id": "manual-landmark-2016",
+   "person": "satja",
+   "date": "2016-10-28",
+   "date_precision": "day",
+   "type": "education",
+   "tier": "log",
+   "title_th": "เข้าหลักสูตร Landmark — Forum · Advanced Course · Introduction Leader Program",
+   "title_en": "Landmark Forum, Advanced Course and the Introduction Leader Program",
+   "url_th": "https://satjah.github.io/th/e/manual-landmark-2016/",
+   "url_en": "https://satjah.github.io/en/e/manual-landmark-2016/",
    "source_url": null,
    "source_kind": "manual"
   },
@@ -480,6 +494,20 @@
    "source_kind": "facebook"
   },
   {
+   "id": "manual-namprik-makham-2020",
+   "person": "satja",
+   "date": "2020-04-29",
+   "date_precision": "day",
+   "type": "venture",
+   "tier": "log",
+   "title_th": "น้ำพริกมะขามบ้านอาจ้อ ล็อตแรก 30 ขวด — ปรับตัวช่วงล็อกดาวน์โควิด",
+   "title_en": "Baan Ar-Jor tamarind chilli paste, first batch of 30 jars — adapting to the COVID lockdown",
+   "url_th": "https://satjah.github.io/th/e/manual-namprik-makham-2020/",
+   "url_en": "https://satjah.github.io/en/e/manual-namprik-makham-2020/",
+   "source_url": null,
+   "source_kind": "manual"
+  },
+  {
    "id": "fb-1592311760-19f4a4da",
    "person": "satja",
    "date": "2020-06-16",
@@ -718,16 +746,16 @@
    "source_kind": "facebook"
   },
   {
-   "id": "manual-lesson-pk-modernfood",
+   "id": "manual-lesson-cafes",
    "person": "satja",
    "date": "2022-01-01",
    "date_precision": "year",
    "type": "lesson",
    "tier": "milestone",
-   "title_th": "ร้านชาที่เคยกำไร กลายเป็นร้านที่ผมยื้อไว้สองปี — พี.เค.โมเดิร์นฟู้ด",
-   "title_en": "The tea shop that made money, and the two years I kept it alive anyway — P.K. Modern Food",
-   "url_th": "https://satjah.github.io/th/e/manual-lesson-pk-modernfood/",
-   "url_en": "https://satjah.github.io/en/e/manual-lesson-pk-modernfood/",
+   "title_th": "ร้านคาเฟ่ ชาไข่มุก และเบเกอรี่ ที่ตั้งใจมากกำไร กลับกลายเป็นมากประสบการณ์ — Kamu · Waffle · Milky Day · GODO Cafe",
+   "title_en": "The bubble-tea, waffle and bakery cafés that set out to make money and made experience instead — Kamu · Waffle · Milky Day · GODO Cafe",
+   "url_th": "https://satjah.github.io/th/e/manual-lesson-cafes/",
+   "url_en": "https://satjah.github.io/en/e/manual-lesson-cafes/",
    "source_url": null,
    "source_kind": "manual"
   },
@@ -758,6 +786,20 @@
    "url_en": "https://satjah.github.io/en/e/fb-1642384742-c7b0c4fd/",
    "source_url": null,
    "source_kind": "facebook"
+  },
+  {
+   "id": "manual-princess-bulgaria-2022",
+   "person": "satja",
+   "date": "2022-03-01",
+   "date_precision": "day",
+   "type": "venture",
+   "tier": "log",
+   "title_th": "เจ้าหญิง Carla แห่งบัลแกเรีย (Saxe-Coburg) เยือนบ้านอาจ้อ — ระบายสีภาพไว้ให้",
+   "title_en": "Princess Carla of Bulgaria (Saxe-Coburg) visits Baan Ar-Jor and leaves a painting",
+   "url_th": "https://satjah.github.io/th/e/manual-princess-bulgaria-2022/",
+   "url_en": "https://satjah.github.io/en/e/manual-princess-bulgaria-2022/",
+   "source_url": null,
+   "source_kind": "manual"
   },
   {
    "id": "web-readthecloud-2022-04-26",
@@ -1880,6 +1922,20 @@
    "source_kind": "facebook"
   },
   {
+   "id": "manual-community-farm-2025",
+   "person": "satja",
+   "date": "2025-08-19",
+   "date_precision": "year",
+   "type": "civic",
+   "tier": "log",
+   "title_th": "บ้านอาจ้อให้ที่ดินปลูกผักแก่เกษตรกรไร้ที่ทำกิน และรับลูกหลานพนักงานมาฝึกงาน",
+   "title_en": "Baan Ar-Jor lends land to landless farmers and takes in staff's children as trainees",
+   "url_th": "https://satjah.github.io/th/e/manual-community-farm-2025/",
+   "url_en": "https://satjah.github.io/en/e/manual-community-farm-2025/",
+   "source_url": null,
+   "source_kind": "manual"
+  },
+  {
    "id": "fb-1755660115-004df9a6",
    "person": "satja",
    "date": "2025-08-20",
@@ -1934,6 +1990,20 @@
    "url_en": "https://satjah.github.io/en/e/fb-1756696734-73291441/",
    "source_url": null,
    "source_kind": "facebook"
+  },
+  {
+   "id": "manual-sign-luanjae-2025",
+   "person": "satja",
+   "date": "2025-09-24",
+   "date_precision": "day",
+   "type": "heritage",
+   "tier": "log",
+   "title_th": "ป้ายไม้ \"หล่วนแจ้\" ขึ้นหน้าสาขา Old Town — คู่กับป้าย \"กวนซ้าน\" ที่บ้านอาจ้อเมื่อ 8 ปีก่อน",
+   "title_en": "The \"Luan Jae\" wooden signboard goes up at the Old Town branch, a pair to \"Guan San\" at Baan Ar-Jor",
+   "url_th": "https://satjah.github.io/th/e/manual-sign-luanjae-2025/",
+   "url_en": "https://satjah.github.io/en/e/manual-sign-luanjae-2025/",
+   "source_url": null,
+   "source_kind": "manual"
   },
   {
    "id": "fb-1759563546-d172d12f",
@@ -2018,6 +2088,20 @@
    "url_en": "https://satjah.github.io/en/e/fb-1763683759-cf706277/",
    "source_url": null,
    "source_kind": "facebook"
+  },
+  {
+   "id": "manual-tohdaeng-krainao",
+   "person": "satja",
+   "date": "2025-11-28",
+   "date_precision": "day",
+   "type": "venture",
+   "tier": "milestone",
+   "title_th": "โต๊ะแดงออกนอกภูเก็ตครั้งแรก — บ้านไกรเนาว์ บางกะเจ้า",
+   "title_en": "TOH DAENG's first table outside Phuket — Baan Krai Nao, Bang Kachao",
+   "url_th": "https://satjah.github.io/th/e/manual-tohdaeng-krainao/",
+   "url_en": "https://satjah.github.io/en/e/manual-tohdaeng-krainao/",
+   "source_url": null,
+   "source_kind": "manual"
   },
   {
    "id": "fb-1764387554-ca14530a",
@@ -2172,6 +2256,20 @@
    "url_en": "https://satjah.github.io/en/e/fb-1781014764-cd2512d3/",
    "source_url": null,
    "source_kind": "facebook"
+  },
+  {
+   "id": "manual-house-penang-tiles-2026",
+   "person": "house",
+   "date": "2026-07-07",
+   "date_precision": "day",
+   "type": "heritage",
+   "tier": "milestone",
+   "title_th": "บ้านสองหลัง สองประเทศ ใต้กระเบื้องหลังคาปี 1936 เดียวกัน — จดหมายถึงโบสถ์ที่ปีนัง",
+   "title_en": "Two houses, two countries, under the same 1936 roof tiles — a letter to a church in Penang",
+   "url_th": "https://satjah.github.io/th/e/manual-house-penang-tiles-2026/",
+   "url_en": "https://satjah.github.io/en/e/manual-house-penang-tiles-2026/",
+   "source_url": null,
+   "source_kind": "manual"
   },
   {
    "id": "fb-1785472169-17948c08",
