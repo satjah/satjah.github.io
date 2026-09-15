@@ -83,3 +83,20 @@ footer a{margin-right:14px}
 @media (max-width:640px){.yr{grid-template-columns:1fr;gap:6px}.yr .l .h{margin-top:6px}.it{grid-template-columns:1fr;gap:2px}.pn{flex-direction:column}.pn a{max-width:100%}.pair{grid-template-columns:1fr;gap:18px}.pair .bar{height:1px;width:4em}}
 @media (prefers-reduced-motion:no-preference){a{transition:text-decoration-color .15s}}
 @media print{.nav,.pn,footer{display:none}}
+/* ---- home refresh (SP-27 · draft A "ส่วนของตัวเอง"): timeline year-pair head + house-layer tag + #systems section */
+.pair.tl{padding:8px 0 18px;grid-template-columns:auto 1px auto 1fr;justify-content:start;gap:0 clamp(16px,3vw,36px)}
+.pair.tl .pyr{font-size:clamp(2.2rem,6vw,3.6rem)}
+.pair.tl .me .pyr{font-family:var(--body);font-weight:600;letter-spacing:-.02em}
+.pair.tl .me small{font-family:var(--body);font-size:.9rem}
+.pair.tl a{text-decoration:none}.pair.tl a:hover .pyr{text-decoration:underline;text-decoration-color:var(--rule)}
+.yr .l .h .hl{display:inline-block;font-family:var(--body);font-style:normal;font-size:.72em;letter-spacing:.04em;border:1px solid var(--rule);padding:0 6px;border-radius:2px;color:var(--mute);margin-bottom:4px}
+.sysh p.one{font-size:1.2rem;line-height:1.55;max-width:34em;margin:0 0 .9em;font-weight:300}
+.sysh .reg{border-top:1px solid var(--rule);margin:0 0 10px}.sysh .it{grid-template-columns:10em 1fr;padding:7px 0}
+.sysh .it .d{font-family:var(--body);font-size:.85em;padding-top:3px}
+.sysh .list{font-weight:300;line-height:1.7;margin:0;font-size:.98em}
+.sysh .list a{text-decoration:none;border-bottom:1px solid var(--rule)}.sysh .list a:hover{border-color:var(--ink)}
+.sysh .list i{color:var(--mute);font-style:normal;font-size:.85em}
+.sysh .list .sep{color:var(--rule);padding:0 .35em}
+.sysh .st{margin:0 0 16px;font-family:var(--mono);font-size:.72em;color:var(--mute);letter-spacing:.02em}.sysh .st b{font-weight:500;color:var(--ink)}
+.sysh .go{display:inline-block;font-size:1.15em;font-weight:500;text-decoration:none;border-bottom:2px solid var(--ink);padding-bottom:2px}
+@media (max-width:640px){.pair.tl{grid-template-columns:auto 1px auto}.pair.tl .bar{height:auto;width:1px}.sysh .it{grid-template-columns:1fr;gap:2px}.sysh .it .d{padding-top:0}}

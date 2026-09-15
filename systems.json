@@ -1,7 +1,7 @@
 {
  "person": "Satja Hongyok",
  "generated": "2026-09-15",
- "count": 17,
+ "count": 19,
  "systems": [
   {
    "id": "backoffice-automation",
@@ -106,6 +106,32 @@
    "last_reviewed": "2026-09",
    "url_th": "https://satjah.github.io/th/systems/#system-health",
    "url_en": "https://satjah.github.io/en/systems/#system-health"
+  },
+  {
+   "id": "family-chart",
+   "name_th": "ผังตระกูล (family tree)",
+   "name_en": "Family tree",
+   "for": "ตระกูล",
+   "since": "2026-07",
+   "status": "running",
+   "replaces": "Google Sheet ที่ญาติช่วยกันกรอก",
+   "solves": "สาแหรกฝั่งคุณแม่ 7 รุ่น หลายร้อยคน เป็นเว็บหน้าเดียวที่เปิดได้แม้ไม่มีอินเทอร์เน็ต — ยังไม่เผยแพร่ เพราะเป็นข้อมูลบุคคลจริงของครอบครัว ต้องคุยเรื่องความเป็นส่วนตัวกับญาติก่อน",
+   "last_reviewed": "2026-09",
+   "url_th": "https://satjah.github.io/th/systems/#family-chart",
+   "url_en": "https://satjah.github.io/en/systems/#family-chart"
+  },
+  {
+   "id": "ford-backoffice",
+   "name_th": "ระบบหลังบ้านและความจำกลาง ฝั่งอนุภาษมอเตอร์เซลส์ (Ford)",
+   "name_en": "Back office and shared memory for Anuphas Motor Sales (Ford)",
+   "for": "อนุภาษมอเตอร์เซลส์ (Ford)",
+   "since": "2026-07",
+   "status": "running",
+   "replaces": "รายงานในแชทและไฟล์กระจัดกระจาย",
+   "solves": "รับข้อมูลประจำเดือนของดีลเลอร์ → วิเคราะห์ → วาระประชุมประจำสัปดาห์ · ทุกการตัดสินใจเก็บเป็นไฟล์ในเครื่อง ไม่ขึ้น cloud (ข้อมูลกงสี)",
+   "last_reviewed": "2026-09",
+   "url_th": "https://satjah.github.io/th/systems/#ford-backoffice",
+   "url_en": "https://satjah.github.io/en/systems/#ford-backoffice"
   },
   {
    "id": "rotary-image",
