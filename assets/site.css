@@ -21,6 +21,7 @@ header.hero{padding:56px 0 32px}
 h2{font-family:var(--num);font-style:italic;font-weight:400;font-size:1.5rem;margin:56px 0 8px}
 .sub{color:var(--mute);margin:0 0 20px;font-size:.92em}
 .roles{font-size:.95em;margin:0 0 8px}.roles div{display:flex;gap:14px;padding:6px 0;border-top:1px solid var(--rule)}
+.roles-note{font-size:.88em;max-width:38em;margin:10px 0 0}
 .roles div span:first-child{font-family:var(--num);color:var(--mute);min-width:6em;font-variant-numeric:tabular-nums}
 .reg{border-top:1px solid var(--ink);margin-top:8px}
 .yr{display:grid;grid-template-columns:10em 1fr;gap:18px;border-bottom:1px solid var(--rule);padding:20px 0}

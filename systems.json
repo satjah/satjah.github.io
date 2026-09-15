@@ -141,20 +141,20 @@
    "since": "2026-07",
    "status": "running",
    "replaces": null,
-   "solves": "",
+   "solves": "วิสาหกิจเพื่อสังคมที่ช่วยขายสินค้าและงานออกแบบของชุมชน ผ่านช่องทางออฟไลน์ในโรงแรมและห้างร้านชั้นนำที่เราเข้าถึงได้ — เพิ่มรายได้ให้ชุมชนที่เกี่ยวข้อง",
    "last_reviewed": "2026-09",
    "url_th": "https://satjah.github.io/th/systems/#take-and-give",
    "url_en": "https://satjah.github.io/en/systems/#take-and-give"
   },
   {
    "id": "baan-phueng-wat",
-   "name_th": "บ้านพึ่งวัด",
-   "name_en": "Baan Phueng Wat",
+   "name_th": "เว็บบ้านพึ่งวัด ภูเก็ต",
+   "name_en": "Baan Phueng Wat Phuket website",
    "for": "บ้านพึ่งวัด",
    "since": "2026-08",
    "status": "running",
    "replaces": null,
-   "solves": "",
+   "solves": "เว็บของบ้านพึ่งวัด ภูเก็ต — ที่พักฟรีสำหรับผู้ป่วยและญาติยากไร้ระหว่างการรักษากับ รพ.วชิระภูเก็ต — ให้คนที่ต้องการที่พักและคนที่อยากช่วยหาข้อมูลและติดต่อได้",
    "last_reviewed": "2026-09",
    "url_th": "https://satjah.github.io/th/systems/#baan-phueng-wat",
    "url_en": "https://satjah.github.io/en/systems/#baan-phueng-wat"
@@ -193,7 +193,7 @@
    "since": "2026-08",
    "status": "running",
    "replaces": null,
-   "solves": "",
+   "solves": "ศูนย์รวมด้านการศึกษาของโรงเรียนเอกชนนอกระบบในภูเก็ต — ให้คนทั่วไปเข้าถึงข่าวสารและทางเลือกพัฒนาตัวเองผ่านโรงเรียนสมาชิกทั้ง 5 ประเภท: เสริมทักษะชีวิต · ศิลปะและกีฬา · วิชาชีพ · กวดวิชา · สอนศาสนา",
    "last_reviewed": "2026-09",
    "url_th": "https://satjah.github.io/th/systems/#private-school-association",
    "url_en": "https://satjah.github.io/en/systems/#private-school-association"
