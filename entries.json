@@ -1,7 +1,7 @@
 {
  "person": "Satja Hongyok",
- "generated": "2026-09-30",
- "count": 171,
+ "generated": "2026-10-09",
+ "count": 172,
  "entries": [
   {
    "id": "manual-house-built",
@@ -2394,6 +2394,20 @@
    "title_en": "Systems — Q3 2026",
    "url_th": "https://satjah.github.io/th/e/manual-systems-2026q3/",
    "url_en": "https://satjah.github.io/en/e/manual-systems-2026q3/",
+   "source_url": null,
+   "source_kind": "manual"
+  },
+  {
+   "id": "manual-kbank-growth-journey-2569",
+   "person": "satja",
+   "date": "2026-10-07",
+   "date_precision": "day",
+   "type": "talk",
+   "tier": "milestone",
+   "title_th": "ต้อนรับคณะ KBank ที่บ้านอาจ้อ — เล่าเรื่องร้านอาหารที่ยั่งยืน และร้านอาหาร Green",
+   "title_en": "Hosting a KBank client delegation at Baan Ar-Jor — on building a restaurant that lasts, and running it green",
+   "url_th": "https://satjah.github.io/th/e/manual-kbank-growth-journey-2569/",
+   "url_en": "https://satjah.github.io/en/e/manual-kbank-growth-journey-2569/",
    "source_url": null,
    "source_kind": "manual"
   }
