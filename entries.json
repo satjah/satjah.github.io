@@ -1,7 +1,7 @@
 {
  "person": "Satja Hongyok",
- "generated": "2026-10-09",
- "count": 172,
+ "generated": "2026-10-10",
+ "count": 173,
  "entries": [
   {
    "id": "manual-house-built",
@@ -2394,6 +2394,20 @@
    "title_en": "Systems — Q3 2026",
    "url_th": "https://satjah.github.io/th/e/manual-systems-2026q3/",
    "url_en": "https://satjah.github.io/en/e/manual-systems-2026q3/",
+   "source_url": null,
+   "source_kind": "manual"
+  },
+  {
+   "id": "manual-thairap-pitching-2569",
+   "person": "satja",
+   "date": "2026-10-02",
+   "date_precision": "day",
+   "type": "award",
+   "tier": "milestone",
+   "title_th": "Pitching day โครงการสร้างผู้ประกอบการร้านอาหารไทยมืออาชีพ (ภาคใต้) — มัสมั่นไก่โต๊ะแดง ผ่านเข้า Acceleration camp",
+   "title_en": "Pitching day, Thai Restaurant Entrepreneur Programme (South) — Toh Daeng's chicken massaman makes the Acceleration camp",
+   "url_th": "https://satjah.github.io/th/e/manual-thairap-pitching-2569/",
+   "url_en": "https://satjah.github.io/en/e/manual-thairap-pitching-2569/",
    "source_url": null,
    "source_kind": "manual"
   },
