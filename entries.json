@@ -1,7 +1,7 @@
 {
  "person": "Satja Hongyok",
  "generated": "2026-11-12",
- "count": 175,
+ "count": 178,
  "entries": [
   {
    "id": "manual-house-built",
@@ -2398,6 +2398,20 @@
    "source_kind": "manual"
   },
   {
+   "id": "fb-1790914505-hybschool",
+   "person": "satja",
+   "date": "2026-10-02",
+   "date_precision": "day",
+   "type": "heritage",
+   "tier": "log",
+   "title_th": "ทำบุญให้อาจ้อที่โรงเรียนหงษ์หยกบำรุง — ไปเป็นประธานในนามตระกูล",
+   "title_en": "Merit-making for my great-grandparents at Hongyok Bamrung School — presiding on behalf of the family",
+   "url_th": "https://satjah.github.io/th/e/fb-1790914505-hybschool/",
+   "url_en": "https://satjah.github.io/en/e/fb-1790914505-hybschool/",
+   "source_url": null,
+   "source_kind": "facebook"
+  },
+  {
    "id": "manual-thairap-pitching-2569",
    "person": "satja",
    "date": "2026-10-02",
@@ -2412,6 +2426,20 @@
    "source_kind": "manual"
   },
   {
+   "id": "fb-1791006154-engcamp",
+   "person": "satja",
+   "date": "2026-10-03",
+   "date_precision": "day",
+   "type": "civic",
+   "tier": "log",
+   "title_th": "ค่ายเรียนภาษาอังกฤษ ปีที่ 3 ที่โต๊ะแดงบ้านอาจ้อ",
+   "title_en": "English camp for kids at Toh Daeng Baan Ar-Jor — third year running",
+   "url_th": "https://satjah.github.io/th/e/fb-1791006154-engcamp/",
+   "url_en": "https://satjah.github.io/en/e/fb-1791006154-engcamp/",
+   "source_url": null,
+   "source_kind": "facebook"
+  },
+  {
    "id": "manual-kbank-growth-journey-2569",
    "person": "satja",
    "date": "2026-10-07",
@@ -2424,6 +2452,20 @@
    "url_en": "https://satjah.github.io/en/e/manual-kbank-growth-journey-2569/",
    "source_url": null,
    "source_kind": "manual"
+  },
+  {
+   "id": "fb-1791522752-psu",
+   "person": "satja",
+   "date": "2026-10-08",
+   "date_precision": "day",
+   "type": "talk",
+   "tier": "milestone",
+   "title_th": "สอนนักศึกษา ม.อ. ภูเก็ต — ทำธุรกิจร้านอาหารควบคู่การสร้างมาตรฐาน Green (บรรยายภาษาอังกฤษ)",
+   "title_en": "Guest lecture at PSU Phuket — running a restaurant business while building a green standard (in English)",
+   "url_th": "https://satjah.github.io/th/e/fb-1791522752-psu/",
+   "url_en": "https://satjah.github.io/en/e/fb-1791522752-psu/",
+   "source_url": null,
+   "source_kind": "facebook"
   },
   {
    "id": "manual-penang-selection-2569",
