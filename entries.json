@@ -1,7 +1,7 @@
 {
  "person": "Satja Hongyok",
- "generated": "2026-10-10",
- "count": 173,
+ "generated": "2026-11-12",
+ "count": 175,
  "entries": [
   {
    "id": "manual-house-built",
@@ -2422,6 +2422,34 @@
    "title_en": "Hosting a KBank client delegation at Baan Ar-Jor — on building a restaurant that lasts, and running it green",
    "url_th": "https://satjah.github.io/th/e/manual-kbank-growth-journey-2569/",
    "url_en": "https://satjah.github.io/en/e/manual-kbank-growth-journey-2569/",
+   "source_url": null,
+   "source_kind": "manual"
+  },
+  {
+   "id": "manual-penang-selection-2569",
+   "person": "satja",
+   "date": "2026-10-28",
+   "date_precision": "month",
+   "type": "award",
+   "tier": "milestone",
+   "title_th": "ได้รับคัดเลือก 1 ใน 20 ผู้ประกอบการทั่วประเทศ ไปเจรจาธุรกิจที่ปีนัง",
+   "title_en": "Selected as one of 20 entrepreneurs nationwide for a business-matching trip to Penang",
+   "url_th": "https://satjah.github.io/th/e/manual-penang-selection-2569/",
+   "url_en": "https://satjah.github.io/en/e/manual-penang-selection-2569/",
+   "source_url": null,
+   "source_kind": "manual"
+  },
+  {
+   "id": "manual-intercity-trang-2569",
+   "person": "satja",
+   "date": "2026-11-07",
+   "date_precision": "day",
+   "type": "talk",
+   "tier": "milestone",
+   "title_th": "งานง่ายขึ้นด้วย AI ในกรอบโรตารี — แบ่งปันที่ประชุมระหว่างเมือง จ.ตรัง",
+   "title_en": "Easier work with AI, within Rotary's rules — sharing at the Intercity meeting in Trang",
+   "url_th": "https://satjah.github.io/th/e/manual-intercity-trang-2569/",
+   "url_en": "https://satjah.github.io/en/e/manual-intercity-trang-2569/",
    "source_url": null,
    "source_kind": "manual"
   }
